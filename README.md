@@ -1,6 +1,6 @@
 # AidPins :round_pushpin:
 
-[Backend is here](https://github.com/rnose512/LifePins-Backend)
+[Backend is here](https://github.com/elshaek/AidPins)
 
 Map app that lets users who need help in the event of disasters find a place where they can get help.
 
